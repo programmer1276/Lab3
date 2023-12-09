@@ -2,4 +2,4 @@
 ---------
 
 ## Выполнил:
-[Кравцев В.В.](file:///Users/vadimkravcev/telega.png)
+![Кравцев В.В.](file:///Users/vadimkravcev/telega.png)
