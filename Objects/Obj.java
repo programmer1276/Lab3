@@ -21,18 +21,4 @@ public abstract class Obj implements GetObj {
     public int hashCode() {
         return Objects.hash(name);
     }
-    //    @Override
-//    public boolean equals(Object obj) {
-//        if (this == obj) return true;
-//        if (obj == null || getClass() != obj.getClass()) return false;
-//        if (this.hashCode() == obj.hashCode()) {
-//            return this.name == ((Obj) obj).name;
-//        }
-//        return false;
-//    }
-//
-//    @Override
-//    public int hashCode() {
-//        return this.id;
-//    }
 }
