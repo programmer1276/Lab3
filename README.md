@@ -1,5 +1,4 @@
 # Lab3
 ---------
 
-## Выполнил:
-![Кравцев В.В.](file:///Users/vadimkravcev/telega.png)
+## Выполнил: [Кравцев В.В.](https://t.me/vadyataran2005)
